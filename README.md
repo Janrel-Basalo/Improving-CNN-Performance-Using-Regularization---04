@@ -10,6 +10,8 @@
 
 ---
 
+model: https://drive.google.com/drive/folders/15bYc8utTLD3hNQOJfJrpZKQJf070c6v9?usp=sharing
+
 # 📊 A. Model Evaluation Analysis
 
 ## 1. What were the weakest-performing classes based on the confusion matrix?
